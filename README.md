@@ -20,3 +20,5 @@ to evaluate SLA compliance and optimise performance outcomes using statistical m
 
 ### Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+`“This GitHub project is a faithful abstraction of the work I did at CloudFactory, using synthetic data.”`
